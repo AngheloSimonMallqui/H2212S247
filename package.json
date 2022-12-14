@@ -1,0 +1,26 @@
+{
+  "name": "h2212s247",
+  "version": "1.0.0",
+  "description": "",
+  "main": "connect.js",
+  "scripts": {
+    "iniciar": "nodemon ./connect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngheloSimonMallqui/H2212S247.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngheloSimonMallqui/H2212S247/issues"
+  },
+  "homepage": "https://github.com/AngheloSimonMallqui/H2212S247#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
