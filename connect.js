@@ -32,7 +32,7 @@ var conexion = mysql.createConnection({
 host: "localhost",
 user: "root",
 password: "admin",
-database: "dbRestaurante"
+database: "db_landing_page"
 });
 
 //Verificar si la conexion a base de datos fue exitosa ,de lo contrario te devolvera un error
